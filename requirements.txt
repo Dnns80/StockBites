@@ -1,0 +1,14 @@
+requests
+nltk
+newspaper3k
+pandas
+futures
+numpy
+datetime
+packaging
+psycopg2
+psycopg2-binary
+openai
+memory_profiler
+python-dotenv
+beautifulsoup4
